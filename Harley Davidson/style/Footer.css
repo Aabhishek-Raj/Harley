@@ -1,0 +1,83 @@
+.footer_head{
+    background-color: black; 
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-color:white;
+    border-bottom-width: 2px;
+
+}
+.name{
+    margin-left: 100px;
+}
+.first_side{
+    display: inline-block;
+}
+.second_side{
+    display: inline-block;
+    margin-left: 200px;
+    
+}
+.background{
+    background-color: #000;
+    color: #fff;
+    border-bottom-color: #fff;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    padding-right: 50px;
+   
+}
+.disclaimer_box{
+    display: flex;
+    flex-direction: row;
+    background-color: #000;
+    color: #fff;
+    justify-content: space-between;
+    padding: 30px;
+    border-bottom-color:#fff;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+
+}
+.last_search{
+    border-color: #fa6600 ;
+    border-radius: 2px;
+    padding: 11px;
+    padding-right: 110px;
+    background-color: #000;
+
+    
+   
+}
+.last_row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #000;
+    color:white;
+
+    
+}
+.last_bar1{
+    padding-left: 30px;
+}
+.last_bar2{
+    width: 600px;
+}
+.last_bar3{
+    display: flex;
+    flex-direction: row ;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+    
+    
+}
+.icon_final{
+    width: 30px; 
+    justify-content: space-between; 
+    padding-left: 20px;      
+}
